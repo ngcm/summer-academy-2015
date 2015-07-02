@@ -1,4 +1,4 @@
-# summer-academy-2015
+# NGCM Summer Academy 2015
 
 This repository contains material for the [NGCM Summer Academy 2015](http://ngcm.soton.ac.uk/summer-academy/).
 
