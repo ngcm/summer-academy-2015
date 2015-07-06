@@ -11,6 +11,11 @@ This repository contains material from the [NGCM Summer Academy 2015](http://ngc
 * [Anthony Morse](http://fostsvn.uopnet.plymouth.ac.uk/amorse/) on [CUDA](http://www.nvidia.com/object/cuda_home_new.html)
 * [Min Ragan-Kelley](https://github.com/minrk) on [IPython](http://ipython.org/) and [Jupyter](https://jupyter.org/)
 
+## Plenary talks
+
+* [Simon Hettrick - software and the SSI](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/Software-Sustainability-Institute-Simon-Hettrick.pptx) ([pdf version](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/Software-Sustainability-Institute-Simon-Hettrick.pdf)).
+* [Marie Rognes - FEniCS](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/FEniCS-Marie-Rognes.pdf)
+
 ## Material
 
 Teaching material associated with different courses:
