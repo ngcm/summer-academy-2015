@@ -17,6 +17,7 @@ This repository contains material from the [NGCM Summer Academy 2015](http://ngc
 * [Marie Rognes - FEniCS](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/FEniCS-Marie-Rognes.pdf)
 * [Adrian Jackson - EPCC and trends in supercomputing](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/EPCC-NGCM-2015.pdf)
 * [Anthony Morse - CUDA](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/CUDA-intro.pdf)
+* [Skipper Seabold - Pandas](https://github.com/fonnesbeck/ngcm_pandas_course/blob/master/notebooks/pandas_slides.ipynb)
 
 ## Material
 
