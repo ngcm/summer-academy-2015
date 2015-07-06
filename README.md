@@ -7,7 +7,7 @@ This repository contains material from the [NGCM Summer Academy 2015](http://ngc
 * [Chris Fonnesbeck](https://github.com/fonnesbeck) and [Skipper Seabold](http://jseabold.net/) on [Pandas](http://pandas.pydata.org/)
 * [Marie Rognes](http://home.simula.no/~meg/) on [FEniCS](http://fenicsproject.org/)
 * [Kenji Takeda](http://research.microsoft.com/en-us/people/kenjitak/) on [Microsoft Azure](http://azure.microsoft.com/en-gb/)
-* [Jerome Velut](http://www.kitware.com/company/team/velut.html) on [VTK and Paraview from Kitware](http://www.kitware.com/)
+* [Jérôme Velut](http://www.kitware.com/company/team/velut.html) on [VTK and Paraview from Kitware](http://www.kitware.com/)
 * [Anthony Morse](http://fostsvn.uopnet.plymouth.ac.uk/amorse/) on [CUDA](http://www.nvidia.com/object/cuda_home_new.html)
 * [Min Ragan-Kelley](https://github.com/minrk) on [IPython](http://ipython.org/) and [Jupyter](https://jupyter.org/)
 
