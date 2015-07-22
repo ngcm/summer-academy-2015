@@ -19,6 +19,7 @@ This repository contains material from the [NGCM Summer Academy 2015](http://ngc
 * [Anthony Morse - CUDA](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/CUDA-intro.pdf)
 * [Skipper Seabold - Pandas](https://github.com/fonnesbeck/ngcm_pandas_course/blob/master/notebooks/pandas_slides.ipynb)
 * [Min Ragan-Kelley - Jupyter and IPython](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/JupyterNGCMBuilds.pdf)
+* [Jérôme Velut - Scientific Visualization, VTK and Kitware](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/141216-HM2014.Kitware.pdf)
 
 ## Material
 
