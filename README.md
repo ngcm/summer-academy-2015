@@ -20,6 +20,7 @@ This repository contains material from the [NGCM Summer Academy 2015](http://ngc
 * [Skipper Seabold - Pandas](https://github.com/fonnesbeck/ngcm_pandas_course/blob/master/notebooks/pandas_slides.ipynb)
 * [Min Ragan-Kelley - Jupyter and IPython](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/JupyterNGCMBuilds.pdf)
 * [Jérôme Velut - Scientific Visualization, VTK and Kitware](https://github.com/ngcm/summer-academy-2015/blob/master/plenary-talks/141216-HM2014.Kitware.pdf)
+* [Kenji Takeda - Accelerating Your Research with Microsoft Azure](http://www.slideshare.net/Azure4Research/accelerating-your-research-with-microsoft-azure-june-2015)
 
 ## Material
 
@@ -29,3 +30,4 @@ Teaching material associated with different courses:
 * [Pandas course](https://github.com/fonnesbeck/ngcm_pandas_course)
 * [IPython course](https://github.com/jupyter/ngcm-tutorial)
 * [Intel Xeon Phi course](http://www.archer.ac.uk/training/course-material/2015/06/xeonphi_soton/index.php)
+* [Azure Training material](http://research.microsoft.com/en-us/projects/azure/training.aspx) and [associated data file (>300MB)](http://research.microsoft.com/en-us/UM/redmond/projects/azure/Azure-training-course-0.76.zip), and [Azure Machine Learning Quickstart](http://azure.microsoft.com/en-us/documentation/services/machine-learning/).
